@@ -3,7 +3,8 @@
 // Assignment Name: PA 2
 
 import java.util.Scanner;
-public class Main {
+
+public class Geometry {
     public static void main(String[] args) {
         // initiating a scanner to read user input
         Scanner scanner = new Scanner(System.in);
